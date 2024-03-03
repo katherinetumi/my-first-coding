@@ -1,0 +1,75 @@
+ body {
+        background: #f5f0fe;
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+      }
+
+      h1 {
+        color: #885df1;
+        text-decoration: underline;
+        font-size: 48px;
+        text-align: center;
+      }
+      ul {
+        list-style-type: none;
+        text-align: center;
+      }
+      a {
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      li {
+        text-align: center;
+        display: inline;
+        margin: 0 15px;
+      }
+      h2 {
+        color: #272044;
+        text-align: center;
+        font-weight: normal;
+      }
+      button {
+        margin: 30px auto;
+        color: hsl(257, 84%, 65%);
+        font-size: 16px;
+        background: transparent;
+        text-align: center;
+        text-decoration: none;
+        padding: 15px 20px;
+        display: block;
+        border: 1px solid hsl(257, 84%, 65%);
+        border-radius: 40px;
+        box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.3);
+        transition: all 200ms ease;
+      }
+      button:hover {
+        color: #fff;
+        background: #885df1;
+      }
+      p {
+        text-align: center;
+      }
+      .Coders {
+        color: blue;
+      }
+      .Courses {
+        color: red;
+      }
+      .Stories {
+        color: green;
+      }
+      .contact-details {
+        text-align: center;
+        font-size: 12px;
+      }
+      .contact-platform {
+        color: #885df1;
+      }
+      .info-heading {
+        font-weight: bold;
+        text-align: center;
+      }
